@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrRecent</string>
+
+    //ImageView Content Descriptions
+    <string name="recentImage">Recent Image</string>
+    <string name="selectedImage">Selected Image</string>
+
+</resources>
